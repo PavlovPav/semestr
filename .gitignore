@@ -1,0 +1,6 @@
+*.idea
+vcs.xml
+settings.ini
+__*
+__pycache__
+.mypy_cache*
